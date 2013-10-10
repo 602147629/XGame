@@ -1,0 +1,43 @@
+﻿<data>
+	<!-- 主页地址(当游戏中与服务器断开链接后，跳转此页) -->
+	<homePage value="http://fswd2.365ub.com" />
+	
+	<!--vip充值地址-->
+	<vipURL>http://10.0.7.114:20087/Default.aspx?uname={0}@kaixin</vipURL>
+	
+	<!--防沉迷地址-->
+	<aoValidateURL>http://passport.365ub.com/realname.aspx</aoValidateURL>
+	
+	<!--CDN分流，为空即不使用CDN-->
+	<cdn></cdn>
+	
+	<servers>
+		<group name="测试服务器">
+			<server ip="s4.fswd2.365ub.com" port="8113" />
+		</group>
+		
+		<serverList>
+			<server host="172.16.18.14" />
+			<server host="10.0.7.21" />
+			<server host="10.0.7.46" />	
+			<server host="glen1983.eicp.net" />
+			<server host="117.143.64.42" />
+			<server host="172.16.18.12" />
+			<server host="172.16.18.15" />
+			<server host="172.16.18.16" />
+			<server host="172.16.18.17" />
+			<server host="172.16.18.101" />
+			<server host="192.168.10.17" />
+			<server host="10.0.7.49" />
+		</serverList>
+		<ports>
+			
+			<port value="20009"/><port value="20000"/> <!-- wyz -->
+			<port value="20001"/> <!-- dy -->
+			<port value="20099"/>
+			<port value="22235"/>
+			<port value="21235"/>
+			<port value="20009"/>
+		</ports>
+	</servers>
+</data>
