@@ -2,7 +2,7 @@ package game.log
 {
 	/**
 	 * 日志类型 
-	 * @author chendong
+	 * @author cdr
 	 * 
 	 */	
 	public class LoggerType

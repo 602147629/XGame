@@ -2,7 +2,7 @@ package game.systemConstant
 {
 	/**
 	 * 系统当中用到的所有文件地址常量,都保存在此
-	 * @author chendong
+	 * @author cdr
 	 * 
 	 */	
 	public class FileAddressConstant

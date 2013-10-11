@@ -2,7 +2,7 @@ package game.log
 {
 	/**
 	 * log(LoggerType.COST,"{0},吃饭了。叫上{0}","a","b")
-	 * @author chendong
+	 * @author cdr
 	 */	
 	public class Logger implements ILogger
 	{

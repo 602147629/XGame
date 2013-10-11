@@ -2,7 +2,7 @@ package game.log
 {
 	/**
 	 * 日志接口 
-	 * @author chendong
+	 * @author cdr
 	 * 
 	 */	
 	public interface ILogger
