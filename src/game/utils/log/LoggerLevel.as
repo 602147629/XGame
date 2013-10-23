@@ -1,4 +1,4 @@
-package game.log
+package game.utils.log
 {
 	/**
 	 * 日志级别 
